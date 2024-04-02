@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://i0.wp.com/br.nacaodamusica.com/wp-content/uploads/2020/05/james-arthur-photoshoot.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Great vibes', cursive;
+}
+
+h2{
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 1px;
+            text-transform: uppercase;
+            text-align: center;
+            border: 2px solid #000000;
+            background: #404445;
+            color: rgb(124, 136, 142);
+            box-shadow: 1px 1px 2px #464442;
+            border-radius: 10px;
+            cursor: pointer;
+}
